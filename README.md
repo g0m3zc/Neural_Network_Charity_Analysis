@@ -23,12 +23,12 @@ The EIN and name should be removed from the input data.
 
 ## Compiling, Training, and Evaluating the Model
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
-I added another hidden layer, increased the neurons, and added a tahn activation function to my neural network model.
+- I added another hidden layer, increased the neurons, and added a tahn activation function to my neural network model.
 
 Were you able to achieve the target model performance?
-I was not able to achieve the target model performance.
+- I was not able to achieve the target model performance.
 
 What steps did you take to try and increase model performance?
-I tried removing the status column.
+- I tried removing the status column.
 
-Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
+Summary: PCA could help determine feature importance so that the appropriate columns are removed for the neural network.
